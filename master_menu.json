@@ -1,0 +1,68 @@
+{
+  "menu": [
+    {
+      "categoryId": 1,
+      "categoryName": "General Knowledge (GK)",
+      "subItems": [
+        {
+          "title": "2025 GK",
+          "fileUrl": "https://raw.githubusercontent.com/prasadkuruma/TsLawcet/refs/heads/main/gk_2025.json"
+        },
+        {
+          "title": "2024 GK",
+          "fileUrl": "https://raw.githubusercontent.com/prasadkuruma/TsLawcet/refs/heads/main/gk_2024.json"
+        },
+        {
+          "title": "2023 GK",
+          "fileUrl": "https://raw.githubusercontent.com/prasadkuruma/TsLawcet/refs/heads/main/gk_2023.json"
+        }
+      ]
+    },
+    {
+      "categoryId": 2,
+      "categoryName": "Current Affairs",
+      "subItems": [
+        {
+          "title": "2025 Current Affairs",
+          "fileUrl": "https://raw.githubusercontent.com/prasadkuruma/TsLawcet/refs/heads/main/ca_2025.json"
+        },
+        {
+          "title": "2024 Current Affairs",
+          "fileUrl": "https://raw.githubusercontent.com/prasadkuruma/TsLawcet/refs/heads/main/ca_2024.json"
+        }
+      ]
+    },
+    {
+      "categoryId": 3,
+      "categoryName": "Legal Aptitude",
+      "subItems": [
+        {
+          "title": "2025 Legal Aptitude",
+          "fileUrl": "https://raw.githubusercontent.com/prasadkuruma/TsLawcet/refs/heads/main/legal_2025.json"
+        },
+        {
+          "title": "2024 Legal Aptitude",
+          "fileUrl": "https://raw.githubusercontent.com/prasadkuruma/TsLawcet/refs/heads/main/legal_2024.json"
+        }
+      ]
+    },
+    {
+      "categoryId": 4,
+      "categoryName": "Model Papers",
+      "subItems": [
+        {
+          "title": "2025 Model Paper",
+          "fileUrl": "https://raw.githubusercontent.com/prasadkuruma/TsLawcet/refs/heads/main/model_2025.json"
+        },
+        {
+          "title": "2024 Model Paper",
+          "fileUrl": "https://raw.githubusercontent.com/prasadkuruma/TsLawcet/refs/heads/main/model_2024.json"
+        },
+        {
+          "title": "2023 Model Paper",
+          "fileUrl": "https://raw.githubusercontent.com/prasadkuruma/TsLawcet/refs/heads/main/model_2023.json"
+        }
+      ]
+    }
+  ]
+}
